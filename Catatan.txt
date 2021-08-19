@@ -1,0 +1,9 @@
+RESTful API
+- Menggunakan HTTP method GET, POST, PUT, DELETE
+- URL / endpoints menggunakan kata benda, bukan kata kerja
+  misal : project/mahasiswa (benar)
+	  project/mahasiswa/tambah (salah)
+- stateless
+  - Setiap request HTTP dilakukan secara terisolasi
+  - Server tidak menyimpan state apapun mengenai sesi dari client
+  - Setiap request dari client harus berisi semua informasi yang dibutuhkan server, termasuk informasi otentikasi

@@ -1,0 +1,17 @@
+{
+    "mahasiswa":[
+        {
+            "nama": "Awang",
+            "umur": 23,
+            "lulus": true,
+            "hobi": "coding"
+        },
+        {
+            "nama": "Suria",
+            "umur": 23,
+            "lulus": true,
+            "hobi": "gaming"
+        }
+
+    ]
+}
